@@ -1,22 +1,16 @@
 # CPES 2026-2027 : Plan de l'année
 
-## Septembre - octobre : Introduction - maths et jeux
+## Octobre - décembre : Dénombrement et combinatoire
 
 ### Séance 1 : Pavages et coloriages
 
-### Séance 2 : Jeux de Nim
+### Séance 2 : Le principe multiplicatif
 
-## Octobre - décembre : Dénombrement et combinatoire
+### Séance 3 : Permutations et factorielle
 
-### Séance 1 : Le principe multiplicatif
+### Séance 4 : Coefficients binomiaux
 
-### Séance 2 : Permutations et factorielle
-
-### Séance 3 : Coefficients binomiaux
-
-### Séance 4 : Le principe des tiroirs et des chaussettes
-
-### Séance 5 : Parité, coloriages et invariants
+### Séance 5 : Le principe des tiroirs et des chaussettes
 
 ## Janvier - février : Arithmétique
 
